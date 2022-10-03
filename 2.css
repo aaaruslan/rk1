@@ -1,0 +1,14 @@
+.head {
+	background-color: red;
+	color: green;
+}
+
+
+.table {
+	background-color: blue;
+	color: violet;
+}
+.table:hover {
+	background-color: yellow;
+	color: red;
+} 
